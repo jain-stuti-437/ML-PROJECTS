@@ -45,7 +45,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Scatter plots comparing actual vs. predicted sales for both training and test sets.
 
 ## Author
-- Your Name Here
+- Stuti Jain
 
 ---
 This project provides a simple regression pipeline for sales prediction using advertising data.
