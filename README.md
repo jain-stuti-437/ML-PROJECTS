@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib scikit-learn
 - Scatter plots comparing Age vs Fare colored by predicted survival for each model.
 
 ## Author
-- Your Name Here
+- Stuti Jain
 
 ---
 This project provides a practical example of classification and data preprocessing for the Titanic dataset using Python and scikit-learn.
