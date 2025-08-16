@@ -51,7 +51,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Scatter plots comparing actual vs. predicted prices for each model.
 
 ## Author
-- Your Name Here
+- Stuti jain
 
 ---
 This project demonstrates a complete regression workflow for house price prediction using Python and popular machine learning libraries.
